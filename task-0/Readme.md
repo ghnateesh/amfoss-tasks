@@ -1,0 +1,1 @@
+I tired installing dual booting ubuntu but due to password on bios setup which was installed by acer. To remove the password, I have to go to customer care centre. So, I installed Ubuntu in virtual box 
